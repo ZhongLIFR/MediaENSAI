@@ -1,6 +1,6 @@
 '''
 Hash and Acoustic Fingerprint Functions
-Bryant Moquist
+
 '''
 
 import numpy as np
